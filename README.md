@@ -17,5 +17,5 @@ This Power BI project analyzes customer behavior by exploring the relationship b
 ## 💡 Use Case
 This dashboard is ideal for marketing and business teams to identify high-value users, understand their engagement habits, and drive targeted campaigns.
 
-📬 Contact Syed Saud Waqar, Email: syedsaudwaqar@gmail.com LinkedIn: https://www.linkedin.com/in/syed-saud-waqar-abc
+📬 Contact: Syed Saud Waqar, Email: syedsaudwaqar@gmail.com LinkedIn: https://www.linkedin.com/in/syed-saud-waqar-abc
 
